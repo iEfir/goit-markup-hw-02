@@ -1,0 +1,16 @@
+.logo {
+    color: #000000;
+}
+
+.logo-part {
+    color: #2196F3;
+}
+
+.nav-links a {
+    color: #212121;
+}
+
+.nav-links a:hover, 
+.nav-links a:focus {
+    color: #2196F3;
+}
