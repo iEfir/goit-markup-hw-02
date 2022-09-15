@@ -68,6 +68,7 @@
   letter-spacing: 0.06em;
   color: #ffffff;
   background: #2196f3;
+  cursor: pointer;
 }
 
 .index-list {
@@ -84,7 +85,6 @@
 }
 
 .index-description {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -139,6 +139,7 @@
   letter-spacing: 0.03em;
   background-color: #f5f4fa;
   color: #212121;
+  cursor: pointer;
 }
 
 .filter-btn:hover,
@@ -155,7 +156,6 @@
 }
 
 .hero-description {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
